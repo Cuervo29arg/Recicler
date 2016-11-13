@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MascotasRecycler</string>
+    <string name="pNombre">nombre</string>
+    <string name="pTelefono">raza</string>
+</resources>
